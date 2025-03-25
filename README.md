@@ -1,3 +1,10 @@
+功能扩展：
+1、图像处理支持阿里模型；
+2、支持学术搜索；
+3、支持普通门户网站搜索；
+
+
+
 <h1 align="center">
   <a href="https://github.com/CherryHQ/cherry-studio/releases">
     <img src="https://github.com/CherryHQ/cherry-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" /><br>
